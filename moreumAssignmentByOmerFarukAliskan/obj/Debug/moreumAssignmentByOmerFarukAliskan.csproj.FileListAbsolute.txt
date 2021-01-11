@@ -1,0 +1,10 @@
+C:\Users\omerf\Desktop\projects\moreumAssignmentByOmerFarukAliskan\bin\Debug\moreumAssignmentByOmerFarukAliskan.exe.config
+C:\Users\omerf\Desktop\projects\moreumAssignmentByOmerFarukAliskan\bin\Debug\moreumAssignmentByOmerFarukAliskan.exe
+C:\Users\omerf\Desktop\projects\moreumAssignmentByOmerFarukAliskan\bin\Debug\moreumAssignmentByOmerFarukAliskan.pdb
+C:\Users\omerf\Desktop\projects\moreumAssignmentByOmerFarukAliskan\obj\Debug\moreumAssignmentByOmerFarukAliskan.csprojAssemblyReference.cache
+C:\Users\omerf\Desktop\projects\moreumAssignmentByOmerFarukAliskan\obj\Debug\moreumAssignmentByOmerFarukAliskan.assignmentByOmerFarukAliskan.resources
+C:\Users\omerf\Desktop\projects\moreumAssignmentByOmerFarukAliskan\obj\Debug\moreumAssignmentByOmerFarukAliskan.Properties.Resources.resources
+C:\Users\omerf\Desktop\projects\moreumAssignmentByOmerFarukAliskan\obj\Debug\moreumAssignmentByOmerFarukAliskan.csproj.GenerateResource.cache
+C:\Users\omerf\Desktop\projects\moreumAssignmentByOmerFarukAliskan\obj\Debug\moreumAssignmentByOmerFarukAliskan.csproj.CoreCompileInputs.cache
+C:\Users\omerf\Desktop\projects\moreumAssignmentByOmerFarukAliskan\obj\Debug\moreumAssignmentByOmerFarukAliskan.exe
+C:\Users\omerf\Desktop\projects\moreumAssignmentByOmerFarukAliskan\obj\Debug\moreumAssignmentByOmerFarukAliskan.pdb

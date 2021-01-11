@@ -1,0 +1,10 @@
+
+	Konu: {TARIH} tarihli faturanız.
+
+	Sayın {AD} {SOYAD},
+	{FATURANO} numaralı hizmet faturanız ekte gönderilmiştir. 
+	Bu dönem için fatura tutarınız: {TUTAR} TL.
+
+	Saygılarımızla,
+	Moreum A.Ş.
+	
